@@ -1,11 +1,6 @@
-#!/usr/bin/python
-#coding=utf-8
-#Codded By Zihad hossain rafi
-#Editing My Script Will Not Make You A Coder
-#Facebook : Md zahidul islam
-#Whatsup : +8801842827520
-#Bangladesh Cyber Expert
-#Alone Coder
+# Codded by : Zihad
+
+# Time Succes decompile : 2022-03-26 17:46:56.379127
 
 try:
 
