@@ -1,5 +1,11 @@
-# Developed by : Zihad hossain rafi
-# Time coded time : 2022-04-23
+#!/usr/bin/python
+#coding=utf-8
+#Codded By Zihad hossain rafi
+#Editing My Script Will Not Make You A Coder
+#Facebook : Md zahidul islam
+#Whatsup : +8801842827520
+#Bangladesh Cyber Expert
+#Alone Coder
 
 try:
 
@@ -34,7 +40,7 @@ logo ="""
 \033[1;95m ##.... ##: ##:::: ##: ##:::: ##::..... ##:
 \033[1;96m ##:::: ##: ##:::: ##: ##:::: ##:'##::: ##:
 \033[1;92m ########::. #######::. #######::. ######::
-\033[1;92m........::::.......::::.......::::......:::
+\033[1;93m........::::.......::::.......::::......:::
 
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
